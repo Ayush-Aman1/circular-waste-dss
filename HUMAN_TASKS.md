@@ -16,6 +16,7 @@ them is only as good as the placeholder. Replace the value, set `source:` to a c
 | `costs.vehicle` | `{'capacity_kg': 3000.0, 'cost_per_km': 25.0, 'fixed_daily': 500.0, 'count': 3}` | TODO-SOURCE: compactor fleet |
 | `logistics.facility_detour_factor` | `1.4` | TODO-SOURCE: road/haversine detour for legs outside the study graph |
 | `logistics.facility_speed_kph` | `25.0` | TODO-SOURCE: average speed for facility legs |
-| `facilities.default_capacity_kg_day` | `None` | TODO-SOURCE: facilities absent from the OpenCity plants CSV have no capacity; needed by the flow model (BUILD) |
+| `facilities.default_capacity_kg_day` | `{'wet_plant': 3000.0, 'biomethanation': 800.0, 'dwcc': 1500.0, 'landfill': None}` | TODO-SOURCE: kg/day available to the study area at facilities with no capacity in the OpenCity plants CSV (landfill: unbounded); placeholder |
+| `facilities.study_area_share` | `0.01` | TODO-SOURCE: share of a plant's listed capacity (OpenCity plants CSV) available to the study area, as the plants serve all of Bengaluru |
 
 Also optional: fill facility capacities for plants/DWCCs not listed in the OpenCity plants CSV (`data/geo/facilities.csv`, column capacity_kg_day).

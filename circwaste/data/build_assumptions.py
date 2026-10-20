@@ -40,14 +40,22 @@ def main() -> None:
                   "vehicle": {"value": {"capacity_kg": 3000.0, "cost_per_km": 25.0, "fixed_daily": 500.0, "count": 3}, "source": T + ": compactor fleet"}},
         "logistics": {"facility_detour_factor": {"value": 1.4, "source": T + ": road/haversine detour for legs outside the study graph"},
                       "facility_speed_kph": {"value": 25.0, "source": T + ": average speed for facility legs"}},
-        "facilities": {"default_capacity_kg_day": {"value": None, "source": T + ": facilities absent from the OpenCity plants CSV have no capacity; needed by the flow model (BUILD)"}},
+        "facilities": {"default_capacity_kg_day": {"value": {"wet_plant": 3000.0, "biomethanation": 800.0, "dwcc": 1500.0, "landfill": None},
+                                                    "source": T + ": kg/day available to the study area at facilities with no capacity in the OpenCity plants CSV (landfill: unbounded); placeholders"},
+                       "study_area_share": {"value": 0.01, "source": T + ": share of a plant's listed capacity (OpenCity plants CSV) available to the study area, as the plants serve all of Bengaluru"},
+                       "max_per_kind": {"value": 2, "source": "assumed: nearest N facilities of each kind (by haversine from the depot) used by the flow model"}},
+        "flow": {"streams": {"value": {"organic": ["wet_plant", "biomethanation"], "paper": ["dwcc"], "plastic": ["dwcc"], "glass": ["dwcc"], "metal": ["dwcc"],
+                                       "textile": ["dwcc"], "rubber_leather": ["dwcc"], "inert_other": ["landfill"]},
+                            "source": "assumed from facility types: organic -> wet processing plants / biomethanation; dry recyclables -> DWCC (dry waste collection centres); inert -> landfill"}},
+        "fleet": {"trips_per_vehicle_per_day": {"value": 3, "source": "assumed: each compactor makes this many collect-and-unload trips a day; with the placeholder fleet (3 x 3000 kg) this gives ~27 t/day of hauling capacity against ~22 t/day generated, i.e. a stressed but feasible system"},
+                  "service_minutes_per_stop": {"value": 3.0, "source": "assumed: bin servicing time; enters vehicle-hours only"}},
     }
     yaml.safe_dump(cfg, open("configs/assumptions.yaml", "w"), sort_keys=False, allow_unicode=True, width=200)
-    pol = {"policies": {"threshold": {"threshold_fill": 0.8, "source": "guide Tier A example: collect if predicted fill tomorrow >= 80%"},
-                        "overflow_only": {"alpha": 1.0, "beta": 0.0, "source": "2024 integrated selection-and-routing paper (arXiv 2409.13386) style: beta=0"},
-                        "recovery_aware": {"alpha": 1.0, "beta": 1.0, "source": "guide prize formula; alpha/beta chosen on validation seeds only, never test seeds"},
-                        "value_only": {"alpha": 0.0, "beta": 1.0, "source": "guide: alpha=0"}},
-           "horizon_days": 1}
+    pol = {"policies": {"threshold": {"threshold_fill": 0.8, "router": "ortools", "source": "guide Tier A example: collect if predicted fill tomorrow >= 80%"},
+                        "overflow_only": {"router": "pyvrp", "alpha": 1.0, "beta": 0.0, "source": "2024 integrated selection-and-routing paper (arXiv 2409.13386) style: beta=0"},
+                        "recovery_aware": {"router": "pyvrp", "alpha": 1.0, "beta": 1.0, "source": "guide prize formula; alpha/beta chosen on validation seeds only, never test seeds"},
+                        "value_only": {"router": "pyvrp", "alpha": 0.0, "beta": 1.0, "source": "guide: alpha=0"}},
+           "horizon_days": 1, "threshold_prize_inr": 100000.0}
     yaml.safe_dump(pol, open("configs/policies.yaml", "w"), sort_keys=False)
     print("per_capita", round(float(per_cap), 4), "composition", m)
 

@@ -95,5 +95,44 @@ logistics:
     source: 'TODO-SOURCE: average speed for facility legs'
 facilities:
   default_capacity_kg_day:
-    value: null
-    source: 'TODO-SOURCE: facilities absent from the OpenCity plants CSV have no capacity; needed by the flow model (BUILD)'
+    value:
+      wet_plant: 3000.0
+      biomethanation: 800.0
+      dwcc: 1500.0
+      landfill: null
+    source: 'TODO-SOURCE: kg/day available to the study area at facilities with no capacity in the OpenCity plants CSV (landfill: unbounded); placeholders'
+  study_area_share:
+    value: 0.01
+    source: 'TODO-SOURCE: share of a plant''s listed capacity (OpenCity plants CSV) available to the study area, as the plants serve all of Bengaluru'
+  max_per_kind:
+    value: 2
+    source: 'assumed: nearest N facilities of each kind (by haversine from the depot) used by the flow model'
+flow:
+  streams:
+    value:
+      organic:
+      - wet_plant
+      - biomethanation
+      paper:
+      - dwcc
+      plastic:
+      - dwcc
+      glass:
+      - dwcc
+      metal:
+      - dwcc
+      textile:
+      - dwcc
+      rubber_leather:
+      - dwcc
+      inert_other:
+      - landfill
+    source: 'assumed from facility types: organic -> wet processing plants / biomethanation; dry recyclables -> DWCC (dry waste collection centres); inert -> landfill'
+fleet:
+  trips_per_vehicle_per_day:
+    value: 3
+    source: 'assumed: each compactor makes this many collect-and-unload trips a day; with the placeholder fleet (3 x 3000 kg) this gives ~27 t/day of hauling capacity against ~22 t/day generated, i.e. a
+      stressed but feasible system'
+  service_minutes_per_stop:
+    value: 3.0
+    source: 'assumed: bin servicing time; enters vehicle-hours only'

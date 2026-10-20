@@ -9,4 +9,7 @@
 - [x] Full pipeline run DONE → artifacts/MANIFEST.json, TRAINING_REPORT.md
 
 [BUILD] (next prompt)
-- [ ] P1 distance matrices on the graph · P4 routers (OR-Tools, PyVRP) · P5 policies, daily loop, material flow · P6 experiments · P7 what-if · P8 API · P9 dashboard
+- [x] P1 distance matrices on the graph (circwaste/geo/world.py)
+- [x] P4 routers (OR-Tools, PyVRP) + tests
+- [x] P5 policies, daily loop, material flow + tests (mass balance closes every day)
+- [ ] P6 experiments · P7 what-if · P8 API · P9 dashboard
