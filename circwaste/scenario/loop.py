@@ -87,7 +87,8 @@ def _window(ex: Exogenous, fill_end: np.ndarray, d0: int, d1: int) -> pd.DataFra
 
 
 def run_loop(policy_name: str, seed: int, study: Study, cfg: dict, lcfg: dict, pcfg: dict, fc: LiveForecaster, levers: Levers | None = None,
-             exo: Exogenous | None = None, keep_detail: bool = False, eval_days: int | None = None) -> RunResult:
+             exo: Exogenous | None = None, keep_detail: bool = False, eval_days: int | None = None, backend: str | None = None,
+             label: str | None = None) -> RunResult:
     t_start = time.time()
     lv = levers or Levers(policy=policy_name)
     cfg = apply_levers(cfg, lv)
@@ -121,7 +122,7 @@ def run_loop(policy_name: str, seed: int, study: Study, cfg: dict, lcfg: dict, p
     flow = FlowModel(fac, cfg, segregation=seg, capacity_pct=lv.capacity_pct)
 
     pol = make_policy(policy_name, pcfg, cfg, lv.alpha, lv.beta)
-    backend = pcfg["policies"][policy_name].get("router", "ortools")
+    backend = backend or pcfg["policies"][policy_name].get("router", "ortools")
     rkw = dict(lcfg["router"][backend])
 
     # ---- initial state at the end of warm-up (baseline schedule)
@@ -168,7 +169,7 @@ def run_loop(policy_name: str, seed: int, study: Study, cfg: dict, lcfg: dict, p
         km = sum(res.distance_km) + 2.0 * leg_km * trips
         hours = (sum(res.time_s) + 2.0 * leg_s * trips) / 3600.0 + service_h * len(visited)
         rec = {f"rec_{m}_kg": fl.recovered_kg[m] for m in MATERIALS}
-        rows.append({"policy": policy_name, "seed": seed, "day": d, "synthetic": True, "generated_kg": gen_total, "collected_kg": collected,
+        rows.append({"policy": label or policy_name, "seed": seed, "day": d, "synthetic": True, "generated_kg": gen_total, "collected_kg": collected,
                      "overflow_events": int(hit.sum()), "overflow_kg": float(over.sum()), "km": km, "vehicle_hours": hours, "trips": trips,
                      "vehicles_used": len(vehs), "stops": len(visited), "routing_cost_inr": res.routing_cost_inr,
                      "fixed_daily_cost_inr": fixed_daily * len(vehs), **rec, "recovered_value_inr": fl.recovered_value_inr,
@@ -186,4 +187,4 @@ def run_loop(policy_name: str, seed: int, study: Study, cfg: dict, lcfg: dict, p
                            "flows": {"recovered_kg": fl.recovered_kg, "landfill_kg": fl.landfill_kg, "spilled_kg": fl.spilled_kg, "delivered_kg": fl.delivered_kg,
                                      "over_capacity": fl.over_capacity}})
     df = pd.DataFrame(rows)
-    return RunResult(policy_name, seed, df, summarise(df, oc) | {"policy": policy_name, "seed": seed}, detail, time.time() - t_start)
+    return RunResult(label or policy_name, seed, df, summarise(df, oc) | {"policy": label or policy_name, "seed": seed}, detail, time.time() - t_start)

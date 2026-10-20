@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BBMP waste processing units</name>
+	<open>1</open>
+	<Schema name="bbmp_waste_pus" id="J_bbmp_waste_pus_SSISIISS">
+		<SimpleField type="string" name="DepartmentCode"><displayName>DepartmentCode</displayName>
+</SimpleField>
+		<SimpleField type="string" name="KGISCode"><displayName>KGISCode</displayName>
+</SimpleField>
+		<SimpleField type="int" name="KGISVillageID"><displayName>KGISVillageID</displayName>
+</SimpleField>
+		<SimpleField type="string" name="KGISWardID"><displayName>KGISWardID</displayName>
+</SimpleField>
+		<SimpleField type="int" name="KGISWaste_Processing_UnitID"><displayName>KGISWaste_Processing_UnitID</displayName>
+</SimpleField>
+		<SimpleField type="int" name="OBJECTID"><displayName>OBJECTID</displayName>
+</SimpleField>
+		<SimpleField type="string" name="WardName"><displayName>WardName</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Waste_Processing_UnitName"><displayName>Waste_Processing_UnitName</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="bbmp_waste_pus_style">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>$[bbmp_waste_pus/DepartmentCode/displayName]</b></td><td>$[bbmp_waste_pus/DepartmentCode]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/KGISCode/displayName]</b></td><td>$[bbmp_waste_pus/KGISCode]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/KGISVillageID/displayName]</b></td><td>$[bbmp_waste_pus/KGISVillageID]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/KGISWardID/displayName]</b></td><td>$[bbmp_waste_pus/KGISWardID]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/KGISWaste_Processing_UnitID/displayName]</b></td><td>$[bbmp_waste_pus/KGISWaste_Processing_UnitID]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/OBJECTID/displayName]</b></td><td>$[bbmp_waste_pus/OBJECTID]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/WardName/displayName]</b></td><td>$[bbmp_waste_pus/WardName]</td></tr>
+  <tr><td><b>$[bbmp_waste_pus/Waste_Processing_UnitName/displayName]</b></td><td>$[bbmp_waste_pus/Waste_Processing_UnitName]</td></tr>
+</table>
+$[description]]]></text>
+		</BalloonStyle>
+	</Style>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">1</SimpleData>
+				<SimpleData name="KGISCode">29572055426128230000URBMPPUGENWPU0001</SimpleData>
+				<SimpleData name="KGISVillageID">15476</SimpleData>
+				<SimpleData name="KGISWardID"></SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">1</SimpleData>
+				<SimpleData name="OBJECTID">1</SimpleData>
+				<SimpleData name="WardName"></SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">SEEGEHALI SWM FACILITY </SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.44100400000001,12.97386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">2</SimpleData>
+				<SimpleData name="KGISCode">29572055426128240000URBMPPUGENWPU0001</SimpleData>
+				<SimpleData name="KGISVillageID">15478</SimpleData>
+				<SimpleData name="KGISWardID"></SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">2</SimpleData>
+				<SimpleData name="OBJECTID">2</SimpleData>
+				<SimpleData name="WardName"></SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">Kannahalli Waste Processing Unit</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.444193,12.968195,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">3</SimpleData>
+				<SimpleData name="KGISCode">29572055428031620000URBMPPUGENWPU0001</SimpleData>
+				<SimpleData name="KGISVillageID">15461</SimpleData>
+				<SimpleData name="KGISWardID">40</SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">3</SimpleData>
+				<SimpleData name="OBJECTID">3</SimpleData>
+				<SimpleData name="WardName">Dodda Bidarakallu</SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">Doddabidarekallu Waste Processing Plant</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.47968400000001,13.031319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">4</SimpleData>
+				<SimpleData name="KGISCode">29572055436130620000URBMPPUGENWPU0001</SimpleData>
+				<SimpleData name="KGISVillageID">15586</SimpleData>
+				<SimpleData name="KGISWardID"></SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">4</SimpleData>
+				<SimpleData name="OBJECTID">4</SimpleData>
+				<SimpleData name="WardName"></SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">SUBBARAYANAPALYA WASTE PROCESSING PLANT </SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.430853,12.882866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">5</SimpleData>
+				<SimpleData name="KGISCode">29572055428031620000URBMPPUGENWPU0002</SimpleData>
+				<SimpleData name="KGISVillageID">15588</SimpleData>
+				<SimpleData name="KGISWardID">198</SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">5</SimpleData>
+				<SimpleData name="OBJECTID">5</SimpleData>
+				<SimpleData name="WardName">Hemmigegepura</SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">LINGADEERANAHALLI WASTE PROCESSING UNIT </SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.506767,12.875929,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">6</SimpleData>
+				<SimpleData name="KGISCode">29572055428031620000URBMPPUGENWPU0003</SimpleData>
+				<SimpleData name="KGISVillageID">15517</SimpleData>
+				<SimpleData name="KGISWardID">190</SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">6</SimpleData>
+				<SimpleData name="OBJECTID">6</SimpleData>
+				<SimpleData name="WardName">Mangammanapalya</SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">KARNATAKA COMPOST DEVELOPMENT CORPORATION Ltd (KCDC)</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.649861,12.896044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">7</SimpleData>
+				<SimpleData name="KGISCode">29572055456131890000URBMPPUGENWPU0001</SimpleData>
+				<SimpleData name="KGISVillageID">21246</SimpleData>
+				<SimpleData name="KGISWardID"></SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">7</SimpleData>
+				<SimpleData name="OBJECTID">7</SimpleData>
+				<SimpleData name="WardName"></SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">CHIKKANAGAMANGALA WASTE PROCESSING PLANT </SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.686032,12.857962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#bbmp_waste_pus_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_waste_pus_SSISIISS">
+				<SimpleData name="DepartmentCode">8</SimpleData>
+				<SimpleData name="KGISCode">29572055426128710000URBMPPUGENWPU0001</SimpleData>
+				<SimpleData name="KGISVillageID">15276</SimpleData>
+				<SimpleData name="KGISWardID"></SimpleData>
+				<SimpleData name="KGISWaste_Processing_UnitID">8</SimpleData>
+				<SimpleData name="OBJECTID">8</SimpleData>
+				<SimpleData name="WardName"></SimpleData>
+				<SimpleData name="Waste_Processing_UnitName">Mavallipura Waste Processing Plant</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.540021,13.122286,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

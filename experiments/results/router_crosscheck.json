@@ -1,0 +1,21 @@
+{
+ "synthetic": true,
+ "instances": 20,
+ "points_per_instance": 25,
+ "mean_rel_gap_pyvrp_vs_ortools": -0.005641198644052749,
+ "max_abs_rel_gap": 0.054052739326477944,
+ "mean_ortools_s": 2.8832964658737184,
+ "mean_pyvrp_s": 0.05926328897476196,
+ "router_settings": {
+  "ortools": {
+   "time_limit_s": 3,
+   "solution_limit": 2000
+  },
+  "pyvrp": {
+   "max_iterations": 400,
+   "time_limit_s": 5
+  },
+  "tolerance_vs_other_solver": 0.05
+ },
+ "note": "rel_gap = (PyVRP objective - OR-Tools objective) / OR-Tools objective; negative = PyVRP better"
+}

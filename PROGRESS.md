@@ -12,4 +12,8 @@
 - [x] P1 distance matrices on the graph (circwaste/geo/world.py)
 - [x] P4 routers (OR-Tools, PyVRP) + tests
 - [x] P5 policies, daily loop, material flow + tests (mass balance closes every day)
-- [ ] P6 experiments · P7 what-if · P8 API · P9 dashboard
+- [x] P6 experiments: 5 policies x 10 paired test seeds, alpha-beta ablation on validation seeds, sensitivity (price, forecast error, overflow cost, fleet), Wilcoxon tests -> experiments/results/
+- [x] P7 what-if engine (levers, cache by lever hash, precomputed grid in experiments/whatif_cache)
+- [x] P8 FastAPI backend + TestClient tests
+- [x] P9 dashboard (web/): map, routes, policy comparison, trade-off chart, what-if panel, synthetic notice, OSM attribution
+- [x] Makefile (setup/test/demo/experiments/report), README, DEMO.md, CREDITS.md, claims-guard tests

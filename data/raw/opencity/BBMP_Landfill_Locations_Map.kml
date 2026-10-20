@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BBMP Landfills</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Schema name="bbmp_landfills" id="J_bbmp_landfills_SSIIISI">
+		<SimpleField type="string" name="DepartmentCode"><displayName>DepartmentCode</displayName>
+</SimpleField>
+		<SimpleField type="string" name="KGISCode"><displayName>KGISCode</displayName>
+</SimpleField>
+		<SimpleField type="int" name="KGISLand_FillsID"><displayName>KGISLand_FillsID</displayName>
+</SimpleField>
+		<SimpleField type="int" name="KGISVillageID"><displayName>KGISVillageID</displayName>
+</SimpleField>
+		<SimpleField type="int" name="KGISWardID"><displayName>KGISWardID</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Land_FillsName"><displayName>Land_FillsName</displayName>
+</SimpleField>
+		<SimpleField type="int" name="OBJECTID"><displayName>OBJECTID</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="bbmp_landfills_style">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>$[bbmp_landfills/DepartmentCode/displayName]</b></td><td>$[bbmp_landfills/DepartmentCode]</td></tr>
+  <tr><td><b>$[bbmp_landfills/KGISCode/displayName]</b></td><td>$[bbmp_landfills/KGISCode]</td></tr>
+  <tr><td><b>$[bbmp_landfills/KGISLand_FillsID/displayName]</b></td><td>$[bbmp_landfills/KGISLand_FillsID]</td></tr>
+  <tr><td><b>$[bbmp_landfills/KGISVillageID/displayName]</b></td><td>$[bbmp_landfills/KGISVillageID]</td></tr>
+  <tr><td><b>$[bbmp_landfills/KGISWardID/displayName]</b></td><td>$[bbmp_landfills/KGISWardID]</td></tr>
+  <tr><td><b>$[bbmp_landfills/Land_FillsName/displayName]</b></td><td>$[bbmp_landfills/Land_FillsName]</td></tr>
+  <tr><td><b>$[bbmp_landfills/OBJECTID/displayName]</b></td><td>$[bbmp_landfills/OBJECTID]</td></tr>
+</table>
+$[description]]]></text>
+		</BalloonStyle>
+	</Style>
+	<Placemark>
+		<visibility>0</visibility>
+		<styleUrl>#bbmp_landfills_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_landfills_SSIIISI">
+				<SimpleData name="DepartmentCode">1</SimpleData>
+				<SimpleData name="KGISCode">29572055426129150000URBMPPUGENLFL0001</SimpleData>
+				<SimpleData name="KGISLand_FillsID">1</SimpleData>
+				<SimpleData name="KGISVillageID">15317</SimpleData>
+				<SimpleData name="KGISWardID"></SimpleData>
+				<SimpleData name="Land_FillsName">Outside Bbmp</SimpleData>
+				<SimpleData name="OBJECTID">6</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.6688778,13.1539417,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<styleUrl>#bbmp_landfills_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_landfills_SSIIISI">
+				<SimpleData name="DepartmentCode">2</SimpleData>
+				<SimpleData name="KGISCode">29572055428031620000URBMPPUGENLFL0001</SimpleData>
+				<SimpleData name="KGISLand_FillsID">2</SimpleData>
+				<SimpleData name="KGISVillageID">15422</SimpleData>
+				<SimpleData name="KGISWardID">5</SimpleData>
+				<SimpleData name="Land_FillsName">Jakkur</SimpleData>
+				<SimpleData name="OBJECTID">7</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.6464667,13.10395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<styleUrl>#bbmp_landfills_style</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#J_bbmp_landfills_SSIIISI">
+				<SimpleData name="DepartmentCode">3</SimpleData>
+				<SimpleData name="KGISCode">29572055428031620000URBMPPUGENLFL0002</SimpleData>
+				<SimpleData name="KGISLand_FillsID">3</SimpleData>
+				<SimpleData name="KGISVillageID">15422</SimpleData>
+				<SimpleData name="KGISWardID">5</SimpleData>
+				<SimpleData name="Land_FillsName">Jakkur</SimpleData>
+				<SimpleData name="OBJECTID">8</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>77.6459222,13.1035833,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

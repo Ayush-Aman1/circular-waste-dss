@@ -23,6 +23,7 @@ class Levers:
     festival_multiplier: float | None = None # festival-day surge multiplier
     alpha: float | None = None               # prize weights; None = configs/policies.yaml
     beta: float | None = None
+    overflow_cost_pct: float = 0.0           # change of the penalty per overflow event (%; sensitivity analysis)
     forecast_noise: float = 1.0              # multiplier on the forecast error (sensitivity analysis)
 
     def key(self, extra: dict | None = None) -> str:
@@ -48,6 +49,8 @@ def apply_levers(cfg: dict, lv: Levers) -> dict:
             pr[m] *= 1.0 + lv.price_pct / 100.0
     if lv.festival_multiplier is not None:
         c["generation"]["festival_multiplier"]["value"] = float(lv.festival_multiplier)
+    if lv.overflow_cost_pct:
+        c["costs"]["overflow_cost_inr"]["value"] *= 1.0 + lv.overflow_cost_pct / 100.0
     veh = c["costs"]["vehicle"]["value"]
     if lv.fleet_size is not None:
         veh["count"] = int(lv.fleet_size)

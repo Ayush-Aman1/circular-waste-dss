@@ -6,3 +6,6 @@
 - Chronos-2 (amazon/chronos-2), chronos-forecasting — https://github.com/amazon-science/chronos-forecasting — Apache-2.0
 - LightGBM — https://github.com/microsoft/LightGBM — MIT · OR-Tools — Apache-2.0 · PyVRP — MIT · OSMnx — MIT
 - Prior work to cite (no code copied): BIN-CT arXiv 1807.01603; integrated selection-and-routing policy arXiv 2409.13386; Ramos et al. smart waste collection routing; dynamic multi-compartment VRP
+- FastAPI / Starlette / Uvicorn — BSD-3-Clause / MIT · pydantic — MIT · pandas, NumPy, SciPy, scikit-learn — BSD-3-Clause · GeoPandas, Shapely, NetworkX — BSD-3-Clause
+- Dashboard: React — MIT · Vite — MIT · Leaflet — BSD-2-Clause · react-leaflet 4.2.1 and @react-leaflet/core — Hippocratic-2.1 (ethical-source licence, not OSI-approved: review before redistributing) · Recharts — MIT · map tiles/data (c) OpenStreetMap contributors (ODbL)
+- Solver APIs used as documented by their projects: OR-Tools routing (https://developers.google.com/optimization/routing), PyVRP (https://pyvrp.org); no third-party code copied.

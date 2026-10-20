@@ -6,8 +6,12 @@ __pycache__/
 node_modules/
 dist/
 # big / regenerable data
-data/raw/
-data/cache/
+data/cache/*
+!data/cache/graph.graphml
+!data/cache/wards.geojson
+!data/cache/waste_pts.parquet
+!data/cache/buildings.parquet
+!data/cache/matrix_study_*.parquet
 data/images/
 data_smoke/
 artifacts_smoke/
@@ -22,3 +26,10 @@ runs/
 config/notify.env
 .env
 kaggle.json
+experiments/results_smoke/
+
+# local tooling, never published
+.claude/
+web/node_modules/
+web/dist/
+*.log

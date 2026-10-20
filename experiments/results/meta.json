@@ -1,0 +1,39 @@
+{
+ "synthetic": true,
+ "date": "2026-10-21",
+ "git_commit": "7a60b47",
+ "stages": [
+  "ablation",
+  "main",
+  "sensitivity",
+  "report"
+ ],
+ "test_seeds": [
+  100,
+  101,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109
+ ],
+ "validation_seeds": [
+  200,
+  201,
+  202,
+  203,
+  204
+ ],
+ "eval_days": 30,
+ "warmup_days": 30,
+ "argv": [
+  "/Users/admin/Downloads/project-pack/circular-waste-dss/experiments/run_experiments.py",
+  "--stage",
+  "all",
+  "--workers",
+  "7"
+ ]
+}

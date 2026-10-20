@@ -1,0 +1,8 @@
+# Only needed to RE-RUN the TRAIN phase (bash pipelines/train_all.sh). Not needed to clone and run: trained models are committed.
+-r requirements.txt
+chronos-forecasting==2.3.2
+torch==2.14.1
+transformers==5.20.2
+accelerate==1.15.0
+folium==0.20.0
+tqdm==4.70.1

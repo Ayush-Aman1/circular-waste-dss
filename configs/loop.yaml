@@ -9,7 +9,7 @@ eval_days: 30              # policy-controlled days per run
 forecast_window_days: 22   # trailing history rows fed to the feature builder each day
 router:
   ortools: {time_limit_s: 3, solution_limit: 2000}     # guided local search; solution_limit keeps runs near-deterministic
-  pyvrp: {max_iterations: 400, time_limit_s: 5}        # MaxIterations is deterministic per seed; time limit is a backstop
+  pyvrp: {max_iterations: 1500, time_limit_s: 8}        # MaxIterations is deterministic per seed; time limit is a backstop
   tolerance_vs_other_solver: 0.05                      # cross-check: relative objective tolerance on small instances
 prize:
   w_unit: inr                                          # prizes are INR/day: alpha * P(overflow) * overflow_cost + beta * recovery value

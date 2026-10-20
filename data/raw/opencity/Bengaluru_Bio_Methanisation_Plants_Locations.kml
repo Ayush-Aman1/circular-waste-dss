@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bio_mithanization_unit" id="bio_mithanization_unit">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="KGISBMUID" type="float"></SimpleField>
+	<SimpleField name="DepartmentCode" type="string"></SimpleField>
+	<SimpleField name="KGISWardID" type="float"></SimpleField>
+	<SimpleField name="KGISVillageID" type="float"></SimpleField>
+	<SimpleField name="KGISCode" type="string"></SimpleField>
+	<SimpleField name="BMUName" type="string"></SimpleField>
+</Schema>
+<Folder><name>bio_mithanization_unit</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="KGISBMUID">1</SimpleData>
+		<SimpleData name="DepartmentCode">1</SimpleData>
+		<SimpleData name="KGISWardID">11</SimpleData>
+		<SimpleData name="KGISVillageID">15424</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0001</SimpleData>
+		<SimpleData name="BMUName">MAIL HEM Engineers Pvt Ltd </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5407277780079,13.0847722224094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="KGISBMUID">10</SimpleData>
+		<SimpleData name="DepartmentCode">10</SimpleData>
+		<SimpleData name="KGISWardID">190</SimpleData>
+		<SimpleData name="KGISVillageID">15517</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0010</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.650711110545,12.8961833326685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="KGISBMUID">11</SimpleData>
+		<SimpleData name="DepartmentCode">11</SimpleData>
+		<SimpleData name="KGISWardID">192</SimpleData>
+		<SimpleData name="KGISVillageID">15505</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0011</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.626697222231,12.8729222217465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="KGISBMUID">2</SimpleData>
+		<SimpleData name="DepartmentCode">2</SimpleData>
+		<SimpleData name="KGISWardID">168</SimpleData>
+		<SimpleData name="KGISVillageID">15682</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0002</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5803666672606,12.9324916673184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="KGISBMUID">3</SimpleData>
+		<SimpleData name="DepartmentCode">3</SimpleData>
+		<SimpleData name="KGISWardID">151</SimpleData>
+		<SimpleData name="KGISVillageID">15530</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0003</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.614044443828,12.9338027779647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="KGISBMUID">4</SimpleData>
+		<SimpleData name="DepartmentCode">4</SimpleData>
+		<SimpleData name="KGISWardID">35</SimpleData>
+		<SimpleData name="KGISVillageID">15165</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0004</SimpleData>
+		<SimpleData name="BMUName">MAIL HEM Engineers Pvt Ltd </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5632944443098,13.0213138890857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="KGISBMUID">5</SimpleData>
+		<SimpleData name="DepartmentCode">5</SimpleData>
+		<SimpleData name="KGISWardID">94</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0005</SimpleData>
+		<SimpleData name="BMUName">MAIL HEM Engineers Pvt Ltd </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5804999997341,12.9768750003782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="KGISBMUID">6</SimpleData>
+		<SimpleData name="DepartmentCode">6</SimpleData>
+		<SimpleData name="KGISWardID">139</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0006</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5767055559587,12.9658777779021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="KGISBMUID">7</SimpleData>
+		<SimpleData name="DepartmentCode">7</SimpleData>
+		<SimpleData name="KGISWardID">112</SimpleData>
+		<SimpleData name="KGISVillageID">15093</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0007</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6407111107961,12.9609222223347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="KGISBMUID">8</SimpleData>
+		<SimpleData name="DepartmentCode">8</SimpleData>
+		<SimpleData name="KGISWardID">151</SimpleData>
+		<SimpleData name="KGISVillageID">15530</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0008</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6140611113438,12.9337916668211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bio_mithanization_unit">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="KGISBMUID">9</SimpleData>
+		<SimpleData name="DepartmentCode">9</SimpleData>
+		<SimpleData name="KGISWardID">167</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000URBMPPUGENBMU0009</SimpleData>
+		<SimpleData name="BMUName">Ashoka Biogreen Pvt Limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5799777781636,12.936266666703</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,24 @@
+# Runtime + tests (everything needed to run the loop, API, experiments and tests from the committed artifacts). Python 3.11.
+numpy==2.4.6
+pandas==3.0.6
+pyarrow==26.0.0
+scipy==1.17.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+joblib==1.6.0
+pyyaml==6.0.3
+pydantic==2.14.1
+fastapi==0.151.0
+starlette==1.9.0
+uvicorn==0.54.0
+httpx2==2.15.1
+ortools==9.15.6755
+pyvrp==0.14.1
+osmnx==2.1.1
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.7.2
+networkx==3.6.1
+matplotlib==3.11.2
+requests==2.34.2
+pytest==9.1.1

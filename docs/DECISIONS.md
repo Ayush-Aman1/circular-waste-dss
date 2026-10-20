@@ -45,3 +45,13 @@ Shift-length limits are not modelled; vehicle-hours are reported (travel + facil
 defaults (TODO-SOURCE); the nearest `facilities.max_per_kind` per kind are used. Dry materials are served in descending price x efficiency order when they share DWCC capacity.
 
 **D15 Seeds.** Test seeds 100-109 (headline comparison), validation seeds 200-204 (alpha/beta ablation), what-if seeds 100-102; all disjoint from the forecaster training seeds 0-5.
+
+**D16 Experiment design.** Headline comparison: 5 policy variants x 10 paired test seeds (100-109), 30 policy-controlled days after 30 warm-up days. The alpha-beta grid (alpha, beta in {0, 0.5, 1, 2}, excluding 0/0) runs on validation seeds 200-204 only;
+the headline `recovery_aware` row uses the configs/policies.yaml weights (1, 1) fixed before any test seed was run, and `recovery_aware_valsel` (weights picked on validation seeds) is reported next to it. Sensitivity
+scenarios (price +-30 %, forecast error x2, overflow cost x0.5/x2, 2 or 4 trips per vehicle per day) compare recovery_aware with overflow_only on the same test seeds. `threshold_pyvrp` is a control: the Tier A selection rule solved
+with PyVRP, to separate the router effect from the selection effect.
+
+**D17 Forecast-error sensitivity.** Doubling the forecast error shifts the point forecast and all quantiles by (m - 1) x (forecast - truth); the policy never sees the truth, only the perturbed forecast.
+
+**D18 What-if cache.** Scenario results (summary over the what-if seeds, per-day series, one representative seed's per-day routes / bin states / flows) are cached in experiments/whatif_cache keyed by a hash of (levers, seeds, eval days,
+warm-up days, router settings). The dashboard sliders sit on the precomputed stops; other values run as a background job.

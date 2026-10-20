@@ -1,0 +1,14 @@
+{
+ "synthetic": true,
+ "alpha": 1.0,
+ "beta": 0.5,
+ "criterion": "lowest mean net_cost_inr over the validation seeds among alpha>0, beta>0",
+ "validation_seeds": [
+  200,
+  201,
+  202,
+  203,
+  204
+ ],
+ "net_cost_inr_mean": -718640.2599905247
+}
