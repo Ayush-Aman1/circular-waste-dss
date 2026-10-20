@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+node_modules/
+dist/
+# big / regenerable data
+data/raw/
+data/cache/
+data/images/
+data_smoke/
+artifacts_smoke/
+kaggle/dataset/images/
+artifacts/raw/
+artifacts/**/*.pt
+artifacts/**/*.pth
+artifacts/**/*.onnx
+artifacts/**/*.safetensors
+runs/
+# secrets
+config/notify.env
+.env
+kaggle.json

@@ -1,0 +1,40 @@
+Circular Waste DSS Fallback Baseline Build Guide.md:1: # Circular Waste DSS Fallback Baseline: Build Guide
+Circular Waste DSS Fallback Baseline Build Guide.md:5: ## Purpose and strategy
+Circular Waste DSS Fallback Baseline Build Guide.md:17: ### Novelty check
+Circular Waste DSS Fallback Baseline Build Guide.md:33: ## Architecture
+Circular Waste DSS Fallback Baseline Build Guide.md:43: ### Folder layout
+Circular Waste DSS Fallback Baseline Build Guide.md:62: ## Data sources
+Circular Waste DSS Fallback Baseline Build Guide.md:76: ### The virtual-bin simulator
+Circular Waste DSS Fallback Baseline Build Guide.md:92: ## Download checklist
+Circular Waste DSS Fallback Baseline Build Guide.md:96: ### Software
+Circular Waste DSS Fallback Baseline Build Guide.md:108: ### Pretrained model
+Circular Waste DSS Fallback Baseline Build Guide.md:112: ### Data files (into data/raw/, never edited by hand)
+Circular Waste DSS Fallback Baseline Build Guide.md:128: ### Repos and papers (into third_party/ and docs/refs/)
+Circular Waste DSS Fallback Baseline Build Guide.md:140: ## Pick list
+Circular Waste DSS Fallback Baseline Build Guide.md:163: ## Build order and gates
+Circular Waste DSS Fallback Baseline Build Guide.md:173: ## Running the coding agent
+Circular Waste DSS Fallback Baseline Build Guide.md:187: ### Master context prompt (AGENTS.md)
+Circular Waste DSS Fallback Baseline Build Guide.md:232: ## Module prompts
+Circular Waste DSS Fallback Baseline Build Guide.md:236: ### P0. Scaffold and contracts
+Circular Waste DSS Fallback Baseline Build Guide.md:238: Task P0: repo skeleton and shared contracts.\
+Circular Waste DSS Fallback Baseline Build Guide.md:253: ### P1. Geography and facilities
+Circular Waste DSS Fallback Baseline Build Guide.md:255: Task P1: circwaste/geo/.\
+Circular Waste DSS Fallback Baseline Build Guide.md:269: ### P2. Virtual-bin simulator
+Circular Waste DSS Fallback Baseline Build Guide.md:271: Task P2: circwaste/sim/.\
+Circular Waste DSS Fallback Baseline Build Guide.md:286: ### P3. Forecaster
+Circular Waste DSS Fallback Baseline Build Guide.md:288: Task P3: circwaste/forecast/.\
+Circular Waste DSS Fallback Baseline Build Guide.md:302: ### P4. Router
+Circular Waste DSS Fallback Baseline Build Guide.md:304: Task P4: circwaste/route/.\
+Circular Waste DSS Fallback Baseline Build Guide.md:317: ### P5. Policies, daily loop and material flow
+Circular Waste DSS Fallback Baseline Build Guide.md:319: Task P5: circwaste/priority/, circwaste/flow/, circwaste/scenario/loop.py.\
+Circular Waste DSS Fallback Baseline Build Guide.md:331: ### P6. Experiments
+Circular Waste DSS Fallback Baseline Build Guide.md:333: Task P6: experiments/.\
+Circular Waste DSS Fallback Baseline Build Guide.md:344: ### P7. What-if scenario engine
+Circular Waste DSS Fallback Baseline Build Guide.md:346: Task P7: circwaste/scenario/whatif.py.\
+Circular Waste DSS Fallback Baseline Build Guide.md:356: ### P8. Backend
+Circular Waste DSS Fallback Baseline Build Guide.md:358: Task P8: circwaste/api/ with FastAPI.\
+Circular Waste DSS Fallback Baseline Build Guide.md:365: ### P9. Dashboard
+Circular Waste DSS Fallback Baseline Build Guide.md:367: Task P9: web/ with Vite + React + TS + react-leaflet + recharts.\
+Circular Waste DSS Fallback Baseline Build Guide.md:375: ## Demo and testing checklist
+Circular Waste DSS Fallback Baseline Build Guide.md:423: ## Credits and licences
+Circular Waste DSS Fallback Baseline Build Guide.md:446: ## Troubleshooting

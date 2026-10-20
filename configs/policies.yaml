@@ -1,0 +1,19 @@
+policies:
+  threshold:
+    threshold_fill: 0.8
+    source: 'guide Tier A example: collect if predicted fill tomorrow >= 80%'
+  overflow_only:
+    alpha: 1.0
+    beta: 0.0
+    source: '2024 integrated selection-and-routing paper (arXiv 2409.13386) style:
+      beta=0'
+  recovery_aware:
+    alpha: 1.0
+    beta: 1.0
+    source: guide prize formula; alpha/beta chosen on validation seeds only, never
+      test seeds
+  value_only:
+    alpha: 0.0
+    beta: 1.0
+    source: 'guide: alpha=0'
+horizon_days: 1

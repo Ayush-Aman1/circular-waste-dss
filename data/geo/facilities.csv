@@ -1,0 +1,357 @@
+id,kind,accepts,capacity_kg_day,lat,lon,node,name,source
+dwcc_0,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.10928,77.576778,,KEMPEGOWDA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_1,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.06894,77.563879,,DODDABOMMSANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_2,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.952,77.551614,,AZAD NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_3,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95221,77.573519,,SUNKENAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_4,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95279,77.573867,,VISHVESHWARA PURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_5,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.94393,77.60047,,SIDAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_6,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.94391,77.600469,,HOMBEGOWDANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_7,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.94994,77.620897,,EJIPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_8,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.934294,77.61465,,KORAMANGALA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_9,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.92716,77.601585,,SUDDAGUNTE PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_10,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.94391,77.60047,,JAYANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_11,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.94938,77.558509,,HANUMANTHANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_12,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.08489,77.540406,,KUVEMPUNAGARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_13,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9483,77.553112,,SRI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_14,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9461,77.548455,,GALI ANJANEYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_15,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.94318,77.543603,,DEEPANJALI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_16,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91477,77.481763,,KENGERI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_17,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93327,77.513681,,R.R.NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_18,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.90675,77.556546,,HOSAKEREHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_19,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93568,77.539583,,GIRINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_20,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93398,77.553432,,KATRIGUPPE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_21,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.932375,77.56331,,VIDYAPEETA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_22,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.92729,77.570166,,GANESH MANDIRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_23,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0721,77.531312,,SHETTYHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_24,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.918245,77.56951,,KANISANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_25,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93261,77.577196,,YEDIYUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_26,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93228,77.580471,,PATTABHINAGAAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_27,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93232,77.580471,,BYRASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_28,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91651,77.599874,,JAYANAGAR EAST,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_29,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91651,77.599874,,GURAPPANA PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_30,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9234,77.614484,,MADIVALA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_31,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91263,77.649028,,HSR LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_32,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.88328,77.615624,,BOMMANHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_33,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91763,77.622582,,BTM LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_34,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.05554,77.512969,,MALLASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_35,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91651,77.599874,,JP NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_36,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.90696,77.576818,,SARAKKI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_37,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.92075,77.58091,,SHAKAMBARI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_38,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91758,77.564882,,BANASHANKARI TEMPLE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_39,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.90291,77.560707,,KUMARASWAMY LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_40,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.90594,77.550767,,PADMANABHANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_41,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.91993,77.546548,,CHIKKALA SANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_42,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9034,77.539487,,UTTARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_43,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8696,77.601993,,PUTTENAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_44,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8833,77.615636,,BILKEHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_45,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.05579,77.512992,,T.DASARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_46,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.88325,77.615611,,HONGASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_47,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.89435,77.646174,,MANGAMMA PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_48,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.87249,77.652488,,SINGA SANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_49,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.87293,77.626696,,BEGUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_50,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.85666,77.594837,,GOTTIGERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_51,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.85666,77.594837,,KONANKUNTE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_52,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.86823,77.563386,,ANJANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_53,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.87848,77.541751,,HEMMIGEPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_54,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0352855,77.482014,,Dodda Bidarakallu,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_55,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0537873,77.4870753,,,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_56,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03767,77.561765,,RK TEMPLE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_57,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0589985,77.5019527,,Bagalakunte,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_58,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0529913,77.5100849,,Bagalakunte,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_59,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0758006,77.5243612,,SHETTYHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_60,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0808122,77.5398236,,KUVEMPUNAGARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_61,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.098904,77.5667368,,ATTURU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_62,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.1083652,77.5767849,,CHOWDESHWARI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_63,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0940011,77.5789764,,YELAHANKA SATELLITE TOWN,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_64,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0981236,77.5874081,,YELAHANKA SATELLITE TOWN,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_65,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.1056423,77.6003628,,KEMPEGOWDA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_66,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.1145302,77.6102111,,KEMPEGOWDA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_67,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.04069,77.582168,,SANJAYNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_68,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0724488,77.6302494,,JAKKUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_69,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0739121,77.5990546,,BYATRAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_70,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0511841,77.5962811,,BYATRAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_71,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0554838,77.567848,,VIDYARANYAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_72,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0575735,77.5499241,,KUVEMPUNAGARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_73,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0437988,77.5310579,,Jalahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_74,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0252418,77.5121455,,PEENYA INDL AREA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_75,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0121765,77.5184498,,RAJAGOPALANAGARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_76,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0088176,77.5295323,,Laggere,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_77,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0145883,77.5260803,,Laggere,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_78,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.02408,77.586098,,GANGANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_79,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0104605,77.5375451,,NANDINI LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_80,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0246161,77.5371041,,HMT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_81,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.012843,77.5481007,,MARAPANNAPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_82,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0296717,77.5480778,,HMT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_83,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0316635,77.5594105,,J P Park,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_84,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0375641,77.5622018,,MATTIKERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_85,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0338905,77.5662598,,Aramane Nagara,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_86,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0365744,77.5972737,,HEBBAL,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_87,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.027853,77.5910042,,HEBBAL,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_88,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0298387,77.5893257,,HEBBAL,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_89,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03172,77.590921,,HEBBAL,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_90,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0274927,77.581578,,GANGANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_91,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0230564,77.6011487,,KAVALBYRASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_92,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0176589,77.5956864,,Jayachamarajendra  Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_93,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0143319,77.5951884,,Jayachamarajendra  Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_94,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0159559,77.5993756,,DEVARA JEEVANA HALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_95,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0157425,77.6055516,,DEVARA JEEVANA HALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_96,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0249334,77.6102816,,KAVALBYRASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_97,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0347423,77.6137827,,NAGAWARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_98,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0335964,77.6222663,,NAGAWARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_99,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0331898,77.6621133,,HORAMAVU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_100,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03763,77.561771,,V NAGENAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_101,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0272761,77.6628224,,HORAMAVU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_102,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0274079,77.7085422,,,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_103,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0186754,77.7036595,,K R PURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_104,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0051518,77.6934743,,DEVASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_105,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9850903,77.7148775,,GARUDACHARPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_106,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9868071,77.6954384,,Vijnana Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_107,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9913101,77.6700057,,A NARAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_108,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0021582,77.6607008,,BENNIGANAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_109,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0066287,77.6530263,,Banasavadi,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_110,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9811915,77.6672723,,NEW TIPPASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_111,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.10949,77.576493,,CHOWDESHWARI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_112,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.04253,77.641867,,NAGAWARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_113,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.972889,77.679383,,Vijnana Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_114,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9720171,77.6904919,,HAGADUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_115,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9641939,77.655973,,JEEVANBHIMANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_116,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9694149,77.648925,,NEW TIPPASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_117,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9775694,77.6363482,,HOYSALANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_118,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9874124,77.6364521,,SARVAGNANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_119,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.999213,77.6376577,,Maruthi Seva Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_120,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0073079,77.6309476,,Lingarajapura,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_121,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0087396,77.624167,,Lingarajapura,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_122,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0173446,77.6268833,,HBR LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_123,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.042564,77.64188,,HBR LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_124,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0109143,77.6187841,,KG HALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_125,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0105254,77.612293,,MUNESHWARANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_126,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0016172,77.6095741,,SK GARDEN,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_127,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0041076,77.6179404,,SAGAYA PURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_128,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9954099,77.6093548,,PULAKESHINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_129,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.986942,77.6080308,,Shivaji Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_130,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9830527,77.6032027,,SAMPANGIRAMNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_131,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.995353,77.5999332,,PULAKESHINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_132,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0072453,77.5920256,,Aramane Nagara,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_133,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0084654,77.575975,,Aramane Nagara,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_134,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03784,77.680775,,HORAMAVU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_135,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0048646,77.5725399,,KADUMALLESHWARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_136,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0072584,77.5602082,,Subramanya Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_137,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9968349,77.5574756,,PRAKASH NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_138,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9927922,77.568091,,SUBHASH NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_139,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9944183,77.5721233,,DATTATREYA TEMPLE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_140,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9871233,77.5746737,,GANDHINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_141,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.989093,77.5898293,,VASANTHNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_142,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9758632,77.579963,,GANDHINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_143,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0033622,77.5405525,,Mahalakshimpuram,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_144,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9985568,77.5363334,,SHANKAR MATT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_145,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03782,77.680788,,RAMAMURTHYNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_146,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9939013,77.5322704,,SHAKTHI GANAPATHI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_147,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9889833,77.5240348,,VRUSHABHAVATHI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_148,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9816165,77.5184004,,Kottegepalya,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_149,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.982435,77.5120764,,Kottegepalya,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_150,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9853348,77.5097888,,Jnana Bharathi ward,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_151,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9787248,77.5041625,,Jnana Bharathi ward,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_152,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9862422,77.4941986,,HEROHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_153,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9646018,77.4763769,,ULLALU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_154,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9567585,77.5203122,,NAGARBHAVI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_155,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9702431,77.5198302,,MUDALAPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_156,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.02487,77.638077,,KACHRAKANAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_157,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9665545,77.5253527,,MARUTHI MANDIR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_158,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9681604,77.5315463,,MARUTHI MANDIR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_159,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9702806,77.5315678,,MARENAHALI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_160,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9763188,77.5336366,,GOVINDRAJA NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_161,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9694526,77.5388178,,Hosahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_162,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9683488,77.5432852,,Hosahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_163,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9798327,77.5460275,,DR RAJKUMAR WARD,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_164,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9811228,77.5380097,,AGRAHARA DASARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_165,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9847785,77.5358846,,KAMAKSHIPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_166,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9917845,77.5473848,,Shivanagara,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_167,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00957,77.618808,,KG HALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_168,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9885664,77.5512132,,Shivanagara,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_169,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9885102,77.556927,,SRIRAMAMANDIR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_170,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9884691,77.5610966,,PRAKASH NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_171,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9819343,77.5633462,,OKALIPURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_172,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.975707,77.5651356,,SUBHASH NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_173,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9687286,77.5662995,,COTTONPETE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_174,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9638978,77.5647057,,CHELVADI PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_175,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9675536,77.5625811,,COTTONPETE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_176,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9589322,77.5614119,,Chamrajapet,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_177,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9569604,77.5617006,,Chamrajapet,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_178,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.02775,77.616148,,KUSHALNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_179,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9549221,77.5533409,,AZAD NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_180,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9527412,77.5440532,,GALI ANJANEYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_181,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9574977,77.53777,,HAMPINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_182,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9619323,77.5489339,,PADARAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_183,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9637057,77.5534304,,JAGAJIVANARAM NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_184,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9664044,77.5562377,,RAYAPURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_185,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9611921,77.5779586,,Dharmaraya Swamy Temple ward,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_186,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9546399,77.5971936,,Shanthi Nagar,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_187,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9448871,77.5726951,,SUNKENAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_188,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9374116,77.5781772,,YEDIYUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_189,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0278,77.616167,,KAVALBYRASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_190,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9311996,77.5784222,,YEDIYUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_191,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9318773,77.5864583,,BYRASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_192,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9160938,77.5744072,,SHAKAMBARI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_193,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9099137,77.5714104,,BANASHANKARI TEMPLE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_194,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9054854,77.5750705,,Jaraganahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_195,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9026445,77.571336,,Yelchenahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_196,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8961372,77.5708064,,Jaraganahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_197,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9069652,77.5631974,,KUMARASWAMY LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_198,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9142024,77.5510737,,Vasanthpura,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_199,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9058972,77.5485191,,PADMANABHANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_200,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03942,77.560974,,MATTIKERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_201,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9061163,77.5415736,,UTTARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_202,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9044654,77.540013,,UTTARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_203,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8956201,77.5462536,,UTTARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_204,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.899346,77.5524669,,Vasanthpura,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_205,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9240265,77.5531807,,KATRIGUPPE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_206,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9268994,77.5536732,,KATRIGUPPE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_207,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9260797,77.5445548,,HOSAKEREHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_208,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.935051,77.5409399,,GIRINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_209,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9333685,77.5426214,,GIRINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_210,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9417054,77.5419338,,GIRINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_211,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.03123,77.529643,,HMT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_212,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9358797,77.5491322,,GIRINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_213,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9353831,77.5534507,,KATRIGUPPE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_214,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9299259,77.5384174,,HOSAKEREHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_215,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9319967,77.5279384,,R.R.NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_216,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9390737,77.5165828,,Nayandahalli,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_217,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9263834,77.5132129,,R.R.NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_218,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9546491,77.5034583,,Jnana Bharathi ward,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_219,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9190992,77.4830305,,KENGERI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_220,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8905515,77.5843349,,PUTTENAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_221,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8867167,77.5892357,,KONANKUNTE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_222,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.09053,77.584508,,ATTURU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_223,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.04154,77.496474,,CHOKKASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_224,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8830518,77.5146325,,HEMMIGEPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_225,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8965475,77.6058558,,BILKEHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_226,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8660716,77.5632444,,ANJANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_227,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.876024,77.5831053,,GOTTIGERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_228,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8649964,77.5802138,,GOTTIGERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_229,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8582189,77.5917215,,GOTTIGERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_230,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8546225,77.5878257,,GOTTIGERE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_231,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8712991,77.6014267,,Arakere,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_232,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8790955,77.6093801,,Arakere,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_233,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8893176,77.6170504,,BOMMANHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_234,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.01462,77.515071,,PEENYA INDL AREA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_235,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8911903,77.6266413,,HONGASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_236,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.883988,77.6199282,,BEGUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_237,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8725609,77.6267558,,BEGUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_238,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8801209,77.6430433,,SINGA SANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_239,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9309914,77.6145507,,KORAMANGALA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_240,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9221843,77.646882,,HSR LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_241,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9181098,77.6454495,,HSR LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_242,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9121821,77.6475485,,HSR LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_243,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9053613,77.633119,,HONGASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_244,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.8990747,77.6407722,,MANGAMMA PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_245,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.01522,77.536539,,NANDINI LAYOUT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_246,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9127933,77.6767339,,Bellanduru,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_247,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9111649,77.6878321,,Bellanduru,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_248,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9366793,77.6955163,,Bellanduru,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_249,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9506327,77.6935046,,HAGADUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_250,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9619405,77.7561619,,HAGADUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_251,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99371,77.7591374,,Kadugodi,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_252,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0298934,77.7314281,,,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_253,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9570499,77.6585222,,Konena Agrahara,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_254,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9595349,77.637548,,DOMLUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_255,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.954277,77.6333234,,AGARAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_256,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.01559,77.550344,,MARAPANNAPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_257,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9621993,77.6136409,,SHANTHALANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_258,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9508402,77.6136767,,NEELASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_259,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9536616,77.6192652,,VANNIGARAPET,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_260,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9471701,77.6171899,,Adugodi,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_261,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9441934,77.6270411,,EJIPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_262,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9754758,77.6187213,,Halsoor,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_263,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9720399,77.6290319,,Jogupalya,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_264,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.01577,77.555484,,MALLESHWARAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_265,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.01371,77.602798,,DEVARA JEEVANA HALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_266,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.02785,77.616189,,MUNESHWARANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_267,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99996,77.662536,,BENNIGANAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_268,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.0074,77.695358,,K R PURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_269,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00739,77.695318,,BASAVANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_270,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.08916,77.589344,,YELAHANKA SATELLITE TOWN,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_271,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00731,77.695304,,DEVASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_272,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99535,77.676121,,A NARAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_273,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97678,77.672857,,CV RAMANNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_274,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96736,77.658657,,NEW TIPPASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_275,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00651,77.631889,,SAGAYA PURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_276,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00114,77.610533,,SK GARDEN,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_277,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00162,77.601453,,M RAMASWAMY PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_278,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99925,77.574108,,RAJAMAHAL GUTTAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_279,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00721,77.574318,,KADUMALLESHWARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_280,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.003727,77.54288,,NAGAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_281,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.11799,77.616378,,JAKKUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_282,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9995,77.515324,,RAJAGOPALANAGARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_283,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00588,77.503097,,HEGGANAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_284,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96389,77.486795,,HEROHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_285,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99485,77.525576,,SHAKTHI GANAPATHI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_286,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99883,77.528548,,SHANKAR MATT,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_287,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99639,77.560711,,GAYITHRINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_288,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.00237,77.571786,,DATTATREYA TEMPLE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_289,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.98892,77.619658,,PULAKESHINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_290,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9931,77.614996,,SARVAGNANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_291,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9752,77.644484,,HOYSALANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_292,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.06906,77.631953,,THANISANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_293,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99473,77.695889,,GARUDACHARPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_294,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97467,77.761751,,HAGADUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_295,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9607,77.643148,,JEEVANBHIMANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_296,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97146,77.631229,,JOGUPALAYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_297,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97666,77.61975,,HALASUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_298,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.988,77.579749,,VASANTHNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_299,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97713,77.580544,,GANDHINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_300,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.977087,77.58051,,SUBHASH NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_301,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.98598,77.566352,,OKALIPURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_302,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.996051,77.55719,,PRAKASH NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_303,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.05887,77.591178,,BYATRAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_304,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99585,77.551682,,RAJAJI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_305,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.98383,77.529628,,KAMAKSHIPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_306,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99233,77.529096,,VRUSHABHAVATHI NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_307,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.978669,77.52675,,KAVERIPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_308,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97326,77.539117,,GOVINDRAJA NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_309,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97626,77.546608,,AGRAHARA DASARAHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_310,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.98377,77.548512,,DR RAJKUMAR WARD,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_311,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.99777,77.557308,,SRIRAMAMANDIR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_312,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97712,77.580951,,CHICKPETE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_313,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.98385,77.601827,,SAMPANGIRAMNAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_314,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.06414,77.583674,,KODIGEHALLI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_315,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96477,77.614506,,SHANTHALANAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_316,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96108,77.6401,,DOMLUR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_317,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95623,77.617322,,AGARAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_318,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95335,77.618399,,VANNIGARAPET,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_319,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95048,77.617547,,NEELASANDRA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_320,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96816,77.564303,,COTTONPETE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_321,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96746,77.563584,,BINNIPETE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_322,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97389,77.545374,,VIJAYNAGARA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_323,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.97031,77.536998,,MARENAHALI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_324,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96551,77.526477,,MARUTHI MANDIR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_325,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,13.06893,77.563741,,VIDYARANYAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_326,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96572,77.518269,,MUDALAPALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_327,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95838,77.524947,,NAGARBHAVI,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_328,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.93156,77.491462,,ULLALU,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_329,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95628,77.529238,,ATTIGUPPE,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_330,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.95077,77.537867,,HAMPINAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_331,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96316,77.550205,,PADARAYANAPURA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_332,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9604,77.552131,,JAGAJIVANARAM NAGAR,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_333,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9645,77.554676,,RAYAPURAM,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_334,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.96546,77.567195,,CHELVADI PALYA,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+dwcc_335,dwcc,"['paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather']",,12.9665,77.576196,,K R MARKET,OpenCity BBMP SWM: BBMP_Dry_Waste_Collection_Centres_Map.kml
+wet_plant_0,wet_plant,['organic'],,12.97386,77.441004,,SEEGEHALI SWM FACILITY,OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml
+wet_plant_1,wet_plant,['organic'],500000.0,12.968195,77.444193,,Kannahalli Waste Processing Unit,OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml | capacity: OpenCity 'BBMP Waste Processing Plants' CSV row 'Kanahalli' (500 TPD); fuzzy name match 0.89
+wet_plant_2,wet_plant,['organic'],200000.0,13.031319,77.479684,,Doddabidarekallu Waste Processing Plant,OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml | capacity: OpenCity 'BBMP Waste Processing Plants' CSV row 'Doddabidarakallu' (200 TPD); fuzzy name match 1.00
+wet_plant_3,wet_plant,['organic'],,12.882866,77.430853,,SUBBARAYANAPALYA WASTE PROCESSING PLANT,OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml
+wet_plant_4,wet_plant,['organic'],200000.0,12.875929,77.506767,,LINGADEERANAHALLI WASTE PROCESSING UNIT,OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml | capacity: OpenCity 'BBMP Waste Processing Plants' CSV row 'Lingaderenahalli' (200 TPD); fuzzy name match 0.89
+wet_plant_5,wet_plant,['organic'],,12.896044,77.649861,,KARNATAKA COMPOST DEVELOPMENT CORPORATION Ltd (KCDC),OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml
+wet_plant_6,wet_plant,['organic'],500000.0,12.857962,77.686032,,CHIKKANAGAMANGALA WASTE PROCESSING PLANT,OpenCity BBMP SWM: BBMP_Waste_Processing_Units_Map.kml | capacity: OpenCity 'BBMP Waste Processing Plants' CSV row 'Chikkanagamangala' (500 TPD); fuzzy name match 1.00
+biomethanation_0,biomethanation,['organic'],,13.0847722224094,77.5407277780079,,MAIL HEM Engineers Pvt Ltd,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_1,biomethanation,['organic'],,12.8961833326685,77.650711110545,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_2,biomethanation,['organic'],,12.8729222217465,77.626697222231,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_3,biomethanation,['organic'],,12.9324916673184,77.5803666672606,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_4,biomethanation,['organic'],,12.9338027779647,77.614044443828,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_5,biomethanation,['organic'],,13.0213138890857,77.5632944443098,,MAIL HEM Engineers Pvt Ltd,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_6,biomethanation,['organic'],,12.9768750003782,77.5804999997341,,MAIL HEM Engineers Pvt Ltd,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_7,biomethanation,['organic'],,12.9658777779021,77.5767055559587,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_8,biomethanation,['organic'],,12.9609222223347,77.6407111107961,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_9,biomethanation,['organic'],,12.9337916668211,77.6140611113438,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+biomethanation_10,biomethanation,['organic'],,12.936266666703,77.5799777781636,,Ashoka Biogreen Pvt Limited,OpenCity BBMP SWM: Bengaluru_Bio_Methanisation_Plants_Locations.kml
+landfill_1,landfill,"['organic', 'paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather', 'inert_other']",,13.10395,77.6464667,,Jakkur,OpenCity BBMP SWM: BBMP_Landfill_Locations_Map.kml
+landfill_2,landfill,"['organic', 'paper', 'plastic', 'glass', 'metal', 'textile', 'rubber_leather', 'inert_other']",,13.1035833,77.6459222,,Jakkur,OpenCity BBMP SWM: BBMP_Landfill_Locations_Map.kml

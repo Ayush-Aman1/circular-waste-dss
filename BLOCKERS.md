@@ -1,0 +1,1 @@
+- 2026-10-20 acquisition: melbourne unreachable: GET https://data.melbourne.vic.gov.au/api/v2/catalog/datasets/smart-bins-argyle-square/exports/csv?delimiter=%2C: 404 Client Error: Not Found for url: https://data.melbourne.vic.gov.au/api/v2/catalog/

@@ -1,0 +1,36 @@
+{
+ "n_bins": 302,
+ "n_intervals": 9531,
+ "lognormal_sigma": 0.471,
+ "ar1_log_rate": 0.1567,
+ "weekday_multipliers_mon_to_sun": [
+  1.0072,
+  0.9697,
+  0.9822,
+  0.9348,
+  0.9792,
+  1.0396,
+  1.0873
+ ],
+ "share_censored_fill_ge_99": 0.191,
+ "median_rel_rate": 1.0471,
+ "mean_bin_rate_pct_per_day": {
+  "median": 35.155,
+  "p10": 16.39,
+  "p90": 63.548
+ },
+ "caveats": [
+  "collections are fill-triggered (selection bias toward fuller bins)",
+  "right-censored at 100 %",
+  "Edinburgh street litter bins in summer 2016 transferred to Indian community bins by rescaling only",
+  "Melbourne Argyle Square dataset no longer published (BLOCKERS.md)"
+ ],
+ "source": "Edinburgh litter-bin sensor data, OGL v3.0",
+ "events": 10000,
+ "bins_total": 334,
+ "period": [
+  "2016-06-03",
+  "2016-08-09"
+ ],
+ "synthetic": false
+}

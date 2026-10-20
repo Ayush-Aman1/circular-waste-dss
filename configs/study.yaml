@@ -1,0 +1,7 @@
+# Study area (docs/DECISIONS.md D1). Ward polygons come from OSM boundaries via Nominatim.
+wards:
+  - {id: hsr_layout, query: "HSR Layout, Bengaluru, Karnataka, India"}
+  - {id: madiwala,   query: "Madiwala, Bengaluru, Karnataka, India"}
+facility_radius_km: 25          # keep BBMP facilities within this distance of the study area
+depot: {mode: centroid_nearest_node, source: assumed}   # single depot at the node nearest the study-area centroid
+network_type: drive
