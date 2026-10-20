@@ -1,0 +1,39 @@
+{
+ "generated": "2026-10-20",
+ "synthetic": true,
+ "items": [
+  {
+   "path": "data/sim/history_meta.json",
+   "kind": "synthetic history",
+   "synthetic": true,
+   "data_hash": "58e4881541b17543",
+   "git_commit": "799e5cb",
+   "date": "2026-10-20"
+  },
+  {
+   "path": "artifacts/sim/fill_noise.json",
+   "kind": "calibration",
+   "synthetic": false,
+   "metrics": {
+    "lognormal_sigma": 0.471,
+    "ar1_log_rate": 0.1567
+   },
+   "data_hash": "58e4881541b17543",
+   "git_commit": "799e5cb",
+   "date": "2026-10-20"
+  },
+  {
+   "path": "artifacts/forecast/metrics.json",
+   "kind": "forecast metrics",
+   "synthetic": true,
+   "data_hash": "58e4881541b17543",
+   "git_commit": "799e5cb",
+   "date": "2026-10-20",
+   "models": [
+    "artifacts/forecast/isotonic_lgbm.joblib",
+    "artifacts/forecast/lgbm_forecaster.joblib",
+    "artifacts/forecast/isotonic_chronos2.joblib"
+   ]
+  }
+ ]
+}

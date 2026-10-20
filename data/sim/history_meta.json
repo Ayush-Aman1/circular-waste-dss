@@ -1,0 +1,49 @@
+{
+ "synthetic": true,
+ "seeds": 6,
+ "days": 180,
+ "points": 120,
+ "ward_daily_kg": {
+  "hsr_layout": 19248.670027060238,
+  "madiwala": 2946.071399282515
+ },
+ "noise_source": "artifacts/sim/fill_noise.json (Edinburgh)",
+ "per_seed": [
+  {
+   "seed": 0,
+   "rows": 21600,
+   "mean_generated_kg_point_day": 186.03610685339663,
+   "overflow_share_point_days": 0.11703703703703704
+  },
+  {
+   "seed": 1,
+   "rows": 21600,
+   "mean_generated_kg_point_day": 186.03610685339663,
+   "overflow_share_point_days": 0.1150925925925926
+  },
+  {
+   "seed": 2,
+   "rows": 21600,
+   "mean_generated_kg_point_day": 186.03610685339663,
+   "overflow_share_point_days": 0.11726851851851852
+  },
+  {
+   "seed": 3,
+   "rows": 21600,
+   "mean_generated_kg_point_day": 186.03610685339663,
+   "overflow_share_point_days": 0.1174074074074074
+  },
+  {
+   "seed": 4,
+   "rows": 21600,
+   "mean_generated_kg_point_day": 186.03610685339663,
+   "overflow_share_point_days": 0.11782407407407407
+  },
+  {
+   "seed": 5,
+   "rows": 21600,
+   "mean_generated_kg_point_day": 186.03610685339663,
+   "overflow_share_point_days": 0.11412037037037037
+  }
+ ]
+}
