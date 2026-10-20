@@ -101,10 +101,10 @@ export function FlowChart({ s, title }: { s?: Scenario; title: string }) {
           <AreaChart data={data}>
             <CartesianGrid strokeDasharray="3 3" opacity={0.3} />
             <XAxis dataKey="day" fontSize={11} /><YAxis fontSize={11} /><Tooltip /><Legend />
-            <Area type="monotone" dataKey="composting" stackId="1" name="composting / biomethanation" stroke="#d97706" fill="#f59e0b" />
-            <Area type="monotone" dataKey="recycling" stackId="1" name="recycling" stroke="#15803d" fill="#22c55e" />
-            <Area type="monotone" dataKey="landfill" stackId="1" name="landfill" stroke="#475467" fill="#98a2b3" />
-            <Area type="monotone" dataKey="overflow" stackId="1" name="overflowed (uncollected)" stroke="#b42318" fill="#f97066" />
+            <Area isAnimationActive={false} type="monotone" dataKey="composting" stackId="1" name="composting / biomethanation" stroke="#d97706" fill="#f59e0b" />
+            <Area isAnimationActive={false} type="monotone" dataKey="recycling" stackId="1" name="recycling" stroke="#15803d" fill="#22c55e" />
+            <Area isAnimationActive={false} type="monotone" dataKey="landfill" stackId="1" name="landfill" stroke="#475467" fill="#98a2b3" />
+            <Area isAnimationActive={false} type="monotone" dataKey="overflow" stackId="1" name="overflowed (uncollected)" stroke="#b42318" fill="#f97066" />
           </AreaChart>
         </ResponsiveContainer>
       </div>
@@ -127,8 +127,8 @@ export function TradeoffChart({ rows }: { rows: any[] }) {
             <ZAxis type="number" dataKey="z" range={[40, 260]} name="overflow events" />
             <Tooltip cursor={{ strokeDasharray: "3 3" }} />
             <Legend />
-            <Scatter name="dominated" data={data.filter((d) => !d.pareto)} fill="#98a2b3" />
-            <Scatter name="Pareto-optimal" data={data.filter((d) => d.pareto)} fill="#0f766e" />
+            <Scatter isAnimationActive={false} name="dominated" data={data.filter((d) => !d.pareto)} fill="#98a2b3" />
+            <Scatter isAnimationActive={false} name="Pareto-optimal" data={data.filter((d) => d.pareto)} fill="#0f766e" />
           </ScatterChart>
         </ResponsiveContainer>
       </div>
