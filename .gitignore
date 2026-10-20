@@ -33,3 +33,7 @@ experiments/results_smoke/
 web/node_modules/
 web/dist/
 *.log
+
+# local agent/prompt files, not published
+CLAUDE.md
+prompts/
